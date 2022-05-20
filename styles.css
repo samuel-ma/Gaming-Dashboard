@@ -468,6 +468,7 @@ body{
 }
 
 .play{
+  cursor: pointer;
   flex: 1;
   border: none;
   padding-right: 30px;
@@ -481,6 +482,7 @@ body{
 }
 
 .results{
+  cursor: pointer;
   flex: 1;
   border: none;
   padding-right: 30px;
