@@ -2,7 +2,11 @@
 
 
 <h1>Project Name</h1>
-<p>GAMING DASHBOARD</p>
+<h6>Gaming Dashboard</h6>
+<h6>Online Gamer Dashboard<h6/>
+
+<h2>Link to site</h2>
+<p>https://dash-gaming.netlify.app/<p/>
 
 <h2>General Information</h2>
 <ul>
